@@ -4,34 +4,581 @@ codechef,STFOOD,easy,https://www.codechef.com/problems/STFOOD
 codechef,FFL,easy,https://www.codechef.com/problems/FFL
 codechef,LIFTME,easy,https://www.codechef.com/problems/LIFTME
 codechef,LINCHESS,easy,https://www.codechef.com/problems/LINCHESS
-hackerrank,AppleandOrange,easy,https://www.hackerrank.com/challenges/apple-and-orange/problem
-hackerrank,MigratoryBirds,easy,https://www.hackerrank.com/challenges/migratory-birds/problem
 codechef,MISSME,easy,https://www.codechef.com/problems/MISSME
-hackerrank,PickingNumbers,easy,https://www.hackerrank.com/challenges/picking-numbers/problem
-hackerrank,TheHurdleRace,easy,https://www.hackerrank.com/challenges/the-hurdle-race/problem
-hackerrank,Flipping-bits,easy,https://www.hackerrank.com/challenges/flipping-bits/problem
-hackerrank,Extra Long Factorials,medium,https://www.hackerrank.com/challenges/extra-long-factorials/problem
-hackerrank,Climbing the Leaderboard,medium,https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
-hackerrank,Bigger is Greater,medium,https://www.hackerrank.com/challenges/bigger-is-greater/problem
-hackerrank,Almost Sorted,medium,https://www.hackerrank.com/challenges/almost-sorted/problem
-hackerrank,Organizing Containers of Balls,medium,https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
-hackerrank,And-Product,easy,https://www.hackerrank.com/challenges/and-product/problem
+codeforces,Bear and Big Brother,easy,https://codeforces.com/contest/791/problem/A
+codeforces,Gravity Flip,easy,https://codeforces.com/contest/405/problem/A
 codeforces,Fedor and New Game,easy,https://codeforces.com/problemset/problem/467/B
-hackerrank,Sansa and Xor,medium,https://www.hackerrank.com/challenges/sansa-and-xor/problem
-hackerrank,Counter Game,medium,https://www.hackerrank.com/challenges/counter-game/problem
+hackerrank,Solve Me First,easy,https://www.hackerrank.com/challenges/solve-me-first
+hackerrank,Simple Array Sum,easy,https://www.hackerrank.com/challenges/simple-array-sum
+hackerrank,Compare The Triplets,easy,https://www.hackerrank.com/challenges/compare-the-triplets
+hackerrank,A Very Big Sum,easy,https://www.hackerrank.com/challenges/a-very-big-sum
+hackerrank,Diagonal Difference,easy,https://www.hackerrank.com/challenges/diagonal-difference
+hackerrank,Plus Minus,easy,https://www.hackerrank.com/challenges/plus-minus
+hackerrank,Staircase,easy,https://www.hackerrank.com/challenges/staircase
+hackerrank,Mini Max Sum,easy,https://www.hackerrank.com/challenges/mini-max-sum
+hackerrank,Birthday Cake Candles,easy,https://www.hackerrank.com/challenges/birthday-cake-candles
+hackerrank,Time Conversion,easy,https://www.hackerrank.com/challenges/time-conversion
+hackerrank,Grading,easy,https://www.hackerrank.com/challenges/grading
+hackerrank,Apple And Orange,easy,https://www.hackerrank.com/challenges/apple-and-orange
+hackerrank,Kangaroo,easy,https://www.hackerrank.com/challenges/kangaroo
+hackerrank,Between Two Sets,easy,https://www.hackerrank.com/challenges/between-two-sets
+hackerrank,Breaking Best And Worst Records,easy,https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+hackerrank,The Birthday Bar,easy,https://www.hackerrank.com/challenges/the-birthday-bar
+hackerrank,Divisible Sum Pairs,easy,https://www.hackerrank.com/challenges/divisible-sum-pairs
+hackerrank,Migratory Birds,easy,https://www.hackerrank.com/challenges/migratory-birds
+hackerrank,Day Of The Programmer,easy,https://www.hackerrank.com/challenges/day-of-the-programmer
+hackerrank,Bon Appetit,easy,https://www.hackerrank.com/challenges/bon-appetit
+hackerrank,Sock Merchant,easy,https://www.hackerrank.com/challenges/sock-merchant
+hackerrank,Drawing Book,easy,https://www.hackerrank.com/challenges/drawing-book
+hackerrank,Counting Valleys,easy,https://www.hackerrank.com/challenges/counting-valleys
+hackerrank,Electronics Shop,easy,https://www.hackerrank.com/challenges/electronics-shop
+hackerrank,Cats And A Mouse,easy,https://www.hackerrank.com/challenges/cats-and-a-mouse
+hackerrank,Picking Numbers,easy,https://www.hackerrank.com/challenges/picking-numbers
+hackerrank,The Hurdle Race,easy,https://www.hackerrank.com/challenges/the-hurdle-race
+hackerrank,Designer Pdf Viewer,easy,https://www.hackerrank.com/challenges/designer-pdf-viewer
+hackerrank,Utopian Tree,easy,https://www.hackerrank.com/challenges/utopian-tree
+hackerrank,Angry Professor,easy,https://www.hackerrank.com/challenges/angry-professor
+hackerrank,Beautiful Days At The Movies,easy,https://www.hackerrank.com/challenges/beautiful-days-at-the-movies
+hackerrank,Strange Advertising,easy,https://www.hackerrank.com/challenges/strange-advertising
+hackerrank,Save The Prisoner,easy,https://www.hackerrank.com/challenges/save-the-prisoner
+hackerrank,Circular Array Rotation,easy,https://www.hackerrank.com/challenges/circular-array-rotation
+hackerrank,Permutation Equation,easy,https://www.hackerrank.com/challenges/permutation-equation
+hackerrank,Jumping On The Clouds Revisited,easy,https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited
+hackerrank,Find Digits,easy,https://www.hackerrank.com/challenges/find-digits
+hackerrank,Append And Delete,easy,https://www.hackerrank.com/challenges/append-and-delete
+hackerrank,Sherlock And Squares,easy,https://www.hackerrank.com/challenges/sherlock-and-squares
+hackerrank,Library Fine,easy,https://www.hackerrank.com/challenges/library-fine
+hackerrank,Cut The Sticks,easy,https://www.hackerrank.com/challenges/cut-the-sticks
+hackerrank,Repeated String,easy,https://www.hackerrank.com/challenges/repeated-string
+hackerrank,Jumping On The Clouds,easy,https://www.hackerrank.com/challenges/jumping-on-the-clouds
+hackerrank,Equality In A Array,easy,https://www.hackerrank.com/challenges/equality-in-a-array
+hackerrank,Acm Icpc Team,easy,https://www.hackerrank.com/challenges/acm-icpc-team
+hackerrank,Taum And Bday,easy,https://www.hackerrank.com/challenges/taum-and-bday
+hackerrank,Kaprekar Numbers,easy,https://www.hackerrank.com/challenges/kaprekar-numbers
+hackerrank,Beautiful Triplets,easy,https://www.hackerrank.com/challenges/beautiful-triplets
+hackerrank,Minimum Distances,easy,https://www.hackerrank.com/challenges/minimum-distances
+hackerrank,Halloween Sale,easy,https://www.hackerrank.com/challenges/halloween-sale
+hackerrank,Chocolate Feast,easy,https://www.hackerrank.com/challenges/chocolate-feast
+hackerrank,Service Lane,easy,https://www.hackerrank.com/challenges/service-lane
+hackerrank,Lisa Workbook,easy,https://www.hackerrank.com/challenges/lisa-workbook
+hackerrank,Flatland Space Stations,easy,https://www.hackerrank.com/challenges/flatland-space-stations
+hackerrank,Fair Rations,easy,https://www.hackerrank.com/challenges/fair-rations
+hackerrank,Cavity Map,easy,https://www.hackerrank.com/challenges/cavity-map
+hackerrank,Manasa And Stones,easy,https://www.hackerrank.com/challenges/manasa-and-stones
+hackerrank,Happy Ladybugs,easy,https://www.hackerrank.com/challenges/happy-ladybugs
+hackerrank,Strange Code,easy,https://www.hackerrank.com/challenges/strange-code
+hackerrank,Big Sorting,easy,https://www.hackerrank.com/challenges/big-sorting
+hackerrank,Reduced String,easy,https://www.hackerrank.com/challenges/reduced-string
+hackerrank,Tutorial Intro,easy,https://www.hackerrank.com/challenges/tutorial-intro
+hackerrank,Camelcase,easy,https://www.hackerrank.com/challenges/camelcase
+hackerrank,Insertionsort1,easy,https://www.hackerrank.com/challenges/insertionsort1
+hackerrank,Strong Password,easy,https://www.hackerrank.com/challenges/strong-password
+hackerrank,Two Characters,easy,https://www.hackerrank.com/challenges/two-characters
+hackerrank,Insertionsort2,easy,https://www.hackerrank.com/challenges/insertionsort2
+hackerrank,Correctness Invariant,easy,https://www.hackerrank.com/challenges/correctness-invariant
+hackerrank,Caesar Cipher 1,easy,https://www.hackerrank.com/challenges/caesar-cipher-1
+hackerrank,Mars Exploration,easy,https://www.hackerrank.com/challenges/mars-exploration
+hackerrank,Runningtime,easy,https://www.hackerrank.com/challenges/runningtime
+hackerrank,Hackerrank In A String,easy,https://www.hackerrank.com/challenges/hackerrank-in-a-string
+hackerrank,Quicksort1,easy,https://www.hackerrank.com/challenges/quicksort1
+hackerrank,Pangrams,easy,https://www.hackerrank.com/challenges/pangrams
+hackerrank,Weighted Uniform String,easy,https://www.hackerrank.com/challenges/weighted-uniform-string
+hackerrank,Separate The Numbers,easy,https://www.hackerrank.com/challenges/separate-the-numbers
+hackerrank,Funny String,easy,https://www.hackerrank.com/challenges/funny-string
+hackerrank,Countingsort1,easy,https://www.hackerrank.com/challenges/countingsort1
+hackerrank,Countingsort2,easy,https://www.hackerrank.com/challenges/countingsort2
+hackerrank,Gem Stones,easy,https://www.hackerrank.com/challenges/gem-stones
+hackerrank,Alternating Characters,easy,https://www.hackerrank.com/challenges/alternating-characters
+hackerrank,Beautiful Binary String,easy,https://www.hackerrank.com/challenges/beautiful-binary-string
+hackerrank,Closest Numbers,easy,https://www.hackerrank.com/challenges/closest-numbers
+hackerrank,The Love Letter Mystery,easy,https://www.hackerrank.com/challenges/the-love-letter-mystery
+hackerrank,Find The Median,easy,https://www.hackerrank.com/challenges/find-the-median
+hackerrank,Palindrome Index,easy,https://www.hackerrank.com/challenges/palindrome-index
+hackerrank,Anagram,easy,https://www.hackerrank.com/challenges/anagram
+hackerrank,Making Anagrams,easy,https://www.hackerrank.com/challenges/making-anagrams
+hackerrank,Game Of Thrones,easy,https://www.hackerrank.com/challenges/game-of-thrones
+hackerrank,Two Strings,easy,https://www.hackerrank.com/challenges/two-strings
+hackerrank,String Construction,easy,https://www.hackerrank.com/challenges/string-construction
+hackerrank,Icecream Parlor,easy,https://www.hackerrank.com/challenges/icecream-parlor
+hackerrank,Missing Numbers,easy,https://www.hackerrank.com/challenges/missing-numbers
+hackerrank,Sherlock And Array,easy,https://www.hackerrank.com/challenges/sherlock-and-array
+hackerrank,Minimum Absolute Difference In An Array,easy,https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array
+hackerrank,Marcs Cakewalk,easy,https://www.hackerrank.com/challenges/marcs-cakewalk
+hackerrank,Grid Challenge,easy,https://www.hackerrank.com/challenges/grid-challenge
+hackerrank,Luck Balance,easy,https://www.hackerrank.com/challenges/luck-balance
+hackerrank,Maximum Perimeter Triangle,easy,https://www.hackerrank.com/challenges/maximum-perimeter-triangle
+hackerrank,Beautiful Pairs,easy,https://www.hackerrank.com/challenges/beautiful-pairs
+hackerrank,Sherlock And The Beast,easy,https://www.hackerrank.com/challenges/sherlock-and-the-beast
+hackerrank,Priyanka And Toys,easy,https://www.hackerrank.com/challenges/priyanka-and-toys
+hackerrank,Largest Permutation,easy,https://www.hackerrank.com/challenges/largest-permutation
+hackerrank,Mark And Toys,easy,https://www.hackerrank.com/challenges/mark-and-toys
+hackerrank,Jim And The Orders,easy,https://www.hackerrank.com/challenges/jim-and-the-orders
+hackerrank,Two Arrays,easy,https://www.hackerrank.com/challenges/two-arrays
+hackerrank,Lonely Integer,easy,https://www.hackerrank.com/challenges/lonely-integer
+hackerrank,Maximizing Xor,easy,https://www.hackerrank.com/challenges/maximizing-xor
+hackerrank,Sum Vs Xor,easy,https://www.hackerrank.com/challenges/sum-vs-xor
+hackerrank,Flipping Bits,easy,https://www.hackerrank.com/challenges/flipping-bits
+hackerrank,Game Of Stones 1,easy,https://www.hackerrank.com/challenges/game-of-stones-1
+hackerrank,Tower Breakers 1,easy,https://www.hackerrank.com/challenges/tower-breakers-1
+hackerrank,A Chessboard Game 1,easy,https://www.hackerrank.com/challenges/a-chessboard-game-1
+hackerrank,Nim Game 1,easy,https://www.hackerrank.com/challenges/nim-game-1
+hackerrank,Misere Nim 1,easy,https://www.hackerrank.com/challenges/misere-nim-1
+hackerrank,Nimble Game 1,easy,https://www.hackerrank.com/challenges/nimble-game-1
+hackerrank,Poker Nim 1,easy,https://www.hackerrank.com/challenges/poker-nim-1
+hackerrank,Strings Xor,easy,https://www.hackerrank.com/challenges/strings-xor
+hackerrank,Smart Number,easy,https://www.hackerrank.com/challenges/smart-number
+hackerrank,Arrays Ds,easy,https://www.hackerrank.com/challenges/arrays-ds
+hackerrank,2D Array,easy,https://www.hackerrank.com/challenges/2d-array
+hackerrank,Dynamic Array,easy,https://www.hackerrank.com/challenges/dynamic-array
+hackerrank,Array Left Rotation,easy,https://www.hackerrank.com/challenges/array-left-rotation
+hackerrank,Print The Elements Of A Linked List,easy,https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list
+hackerrank,Insert A Node At The Tail Of A Linked List,easy,https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list
+hackerrank,Insert A Node At The Head Of A Linked List,easy,https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list
+hackerrank,Insert A Node At A Specific Position In A Linked List,easy,https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list
+hackerrank,Delete A Node From A Linked List,easy,https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list
+hackerrank,Print The Elements Of A Linked List In Reverse,easy,https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse
+hackerrank,Reverse A Linked List,easy,https://www.hackerrank.com/challenges/reverse-a-linked-list
+hackerrank,Compare Two Linked Lists,easy,https://www.hackerrank.com/challenges/compare-two-linked-lists
+hackerrank,Merge Two Sorted Linked Lists,easy,https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
+hackerrank,Get The Value Of The Node At A Specific Position From The Tail,easy,https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail
+hackerrank,Delete Duplicate Value Nodes From A Sorted Linked List,easy,https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list
+hackerrank,Find The Merge Point Of Two Joined Linked Lists,easy,https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists
+hackerrank,Insert A Node Into A Sorted Doubly Linked List,easy,https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list
+hackerrank,Reverse A Doubly Linked List,easy,https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list
+hackerrank,Tree Preorder Traversal,easy,https://www.hackerrank.com/challenges/tree-preorder-traversal
+hackerrank,Tree Postorder Traversal,easy,https://www.hackerrank.com/challenges/tree-postorder-traversal
+hackerrank,Tree Inorder Traversal,easy,https://www.hackerrank.com/challenges/tree-inorder-traversal
+hackerrank,Tree Height Of A Binary Tree,easy,https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree
+hackerrank,Tree Top View,easy,https://www.hackerrank.com/challenges/tree-top-view
+hackerrank,Tree Level Order Traversal,easy,https://www.hackerrank.com/challenges/tree-level-order-traversal
+hackerrank,Binary Search Tree Insertion,easy,https://www.hackerrank.com/challenges/binary-search-tree-insertion
+hackerrank,Binary Search Tree Lowest Common Ancestor,easy,https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor
+hackerrank,Qheap1,easy,https://www.hackerrank.com/challenges/qheap1
+hackerrank,Maximum Element,easy,https://www.hackerrank.com/challenges/maximum-element
+hackerrank,Jesse And Cookies,easy,https://www.hackerrank.com/challenges/jesse-and-cookies
+hackerrank,Equal Stacks,easy,https://www.hackerrank.com/challenges/equal-stacks
+spoj,Aggressive cows,medium,https://www.spoj.com/problems/AGGRCOW/
+spoj,Roti Prata,medium,https://www.spoj.com/problems/PRATA/
+spoj,EKO,medium,https://www.spoj.com/problems/EKO/
 interviewbit,Painter's Partition Problem,medium,https://www.interviewbit.com/problems/painters-partition-problem/
 codechef,COINS,medium,https://www.codechef.com/problems/COINS
 codechef,MARBLES,medium,https://www.codechef.com/problems/MARBLES
 codechef,TREEROOT,medium,https://www.codechef.com/problems/TREEROOT
 codechef,FLIPCOIN,medium,https://www.codechef.com/problems/FLIPCOIN
 codechef,NUMFACT,medium,https://www.codechef.com/problems/NUMFACT
+hackerrank,Magic Square Forming,medium,https://www.hackerrank.com/challenges/magic-square-forming
+hackerrank,Climbing The Leaderboard,medium,https://www.hackerrank.com/challenges/climbing-the-leaderboard
+hackerrank,Extra Long Factorials,medium,https://www.hackerrank.com/challenges/extra-long-factorials
+hackerrank,Non Divisible Subset,medium,https://www.hackerrank.com/challenges/non-divisible-subset
+hackerrank,Queens Attack 2,medium,https://www.hackerrank.com/challenges/queens-attack-2
+hackerrank,Organizing Containers Of Balls,medium,https://www.hackerrank.com/challenges/organizing-containers-of-balls
+hackerrank,Encryption,medium,https://www.hackerrank.com/challenges/encryption
+hackerrank,Bigger Is Greater,medium,https://www.hackerrank.com/challenges/bigger-is-greater
+hackerrank,The Time In Words,medium,https://www.hackerrank.com/challenges/the-time-in-words
+hackerrank,The Grid Search,medium,https://www.hackerrank.com/challenges/the-grid-search
+hackerrank,3D Surface Area,medium,https://www.hackerrank.com/challenges/3d-surface-area
+hackerrank,Absolute Permutation,medium,https://www.hackerrank.com/challenges/absolute-permutation
+hackerrank,Bomber Man,medium,https://www.hackerrank.com/challenges/bomber-man
+hackerrank,Two Pluses,medium,https://www.hackerrank.com/challenges/two-pluses
+hackerrank,Larrys Array,medium,https://www.hackerrank.com/challenges/larrys-array
+hackerrank,Almost Sorted,medium,https://www.hackerrank.com/challenges/almost-sorted
+hackerrank,Countingsort4,medium,https://www.hackerrank.com/challenges/countingsort4
+hackerrank,Fraudulent Activity Notifications,medium,https://www.hackerrank.com/challenges/fraudulent-activity-notifications
+hackerrank,Lilys Homework,medium,https://www.hackerrank.com/challenges/lilys-homework
+hackerrank,Sherlock And Valid String,medium,https://www.hackerrank.com/challenges/sherlock-and-valid-string
+hackerrank,Richie Rich,medium,https://www.hackerrank.com/challenges/richie-rich
+hackerrank,Maximum Palindromes,medium,https://www.hackerrank.com/challenges/maximum-palindromes
+hackerrank,Sherlock And Anagrams,medium,https://www.hackerrank.com/challenges/sherlock-and-anagrams
+hackerrank,Common Child,medium,https://www.hackerrank.com/challenges/common-child
+hackerrank,Bear And Steady Gene,medium,https://www.hackerrank.com/challenges/bear-and-steady-gene
+hackerrank,Hackerland Radio Transmitters,medium,https://www.hackerrank.com/challenges/hackerland-radio-transmitters
+hackerrank,Gridland Metro,medium,https://www.hackerrank.com/challenges/gridland-metro
+hackerrank,Knightl On Chessboard,medium,https://www.hackerrank.com/challenges/knightl-on-chessboard
+hackerrank,Minimum Loss,medium,https://www.hackerrank.com/challenges/minimum-loss
+hackerrank,Pairs,medium,https://www.hackerrank.com/challenges/pairs
+hackerrank,Connected Cell In A Grid,medium,https://www.hackerrank.com/challenges/connected-cell-in-a-grid
+hackerrank,Short Palindrome,medium,https://www.hackerrank.com/challenges/short-palindrome
+hackerrank,Count Luck,medium,https://www.hackerrank.com/challenges/count-luck
+hackerrank,Cut The Tree,medium,https://www.hackerrank.com/challenges/cut-the-tree
+hackerrank,Gena,medium,https://www.hackerrank.com/challenges/gena
+hackerrank,Xor Quadruples,medium,https://www.hackerrank.com/challenges/xor-quadruples
+hackerrank,Red Knights Shortest Path,medium,https://www.hackerrank.com/challenges/red-knights-shortest-path
+hackerrank,Torque And Development,medium,https://www.hackerrank.com/challenges/torque-and-development
+hackerrank,Journey To The Moon,medium,https://www.hackerrank.com/challenges/journey-to-the-moon
+hackerrank,Synchronous Shopping,medium,https://www.hackerrank.com/challenges/synchronous-shopping
+hackerrank,Bfsshortreach,medium,https://www.hackerrank.com/challenges/bfsshortreach
+hackerrank,Kruskalmstrsub,medium,https://www.hackerrank.com/challenges/kruskalmstrsub
+hackerrank,Even Tree,medium,https://www.hackerrank.com/challenges/even-tree
+hackerrank,The Quickest Way Up,medium,https://www.hackerrank.com/challenges/the-quickest-way-up
+hackerrank,The Story Of A Tree,medium,https://www.hackerrank.com/challenges/the-story-of-a-tree
+hackerrank,Primsmstsub,medium,https://www.hackerrank.com/challenges/primsmstsub
+hackerrank,Clique,medium,https://www.hackerrank.com/challenges/clique
+hackerrank,Beautiful Path,medium,https://www.hackerrank.com/challenges/beautiful-path
+hackerrank,Jack Goes To Rapture,medium,https://www.hackerrank.com/challenges/jack-goes-to-rapture
+hackerrank,Crab Graphs,medium,https://www.hackerrank.com/challenges/crab-graphs
+hackerrank,Jeanies Route,medium,https://www.hackerrank.com/challenges/jeanies-route
+hackerrank,Johnland,medium,https://www.hackerrank.com/challenges/johnland
+hackerrank,Rust Murderer,medium,https://www.hackerrank.com/challenges/rust-murderer
+hackerrank,Candies,medium,https://www.hackerrank.com/challenges/candies
+hackerrank,Greedy Florist,medium,https://www.hackerrank.com/challenges/greedy-florist
+hackerrank,Angry Children,medium,https://www.hackerrank.com/challenges/angry-children
+hackerrank,Pylons,medium,https://www.hackerrank.com/challenges/pylons
+hackerrank,Cloudy Day,medium,https://www.hackerrank.com/challenges/cloudy-day
+hackerrank,Lena Sort,medium,https://www.hackerrank.com/challenges/lena-sort
+hackerrank,Coin Change,medium,https://www.hackerrank.com/challenges/coin-change
+hackerrank,Equal,medium,https://www.hackerrank.com/challenges/equal
+hackerrank,Flipping The Matrix,medium,https://www.hackerrank.com/challenges/flipping-the-matrix
+hackerrank,Sherlock And Cost,medium,https://www.hackerrank.com/challenges/sherlock-and-cost
+hackerrank,An Interesting Game 1,medium,https://www.hackerrank.com/challenges/an-interesting-game-1
+hackerrank,New Year Chaos,medium,https://www.hackerrank.com/challenges/new-year-chaos
+hackerrank,Construct The Array,medium,https://www.hackerrank.com/challenges/construct-the-array
+hackerrank,Bonetrousle,medium,https://www.hackerrank.com/challenges/bonetrousle
+hackerrank,Kingdom Division,medium,https://www.hackerrank.com/challenges/kingdom-division
+hackerrank,Sam And Substrings,medium,https://www.hackerrank.com/challenges/sam-and-substrings
+hackerrank,Fibonacci Modified,medium,https://www.hackerrank.com/challenges/fibonacci-modified
+hackerrank,Abbr,medium,https://www.hackerrank.com/challenges/abbr
+hackerrank,Prime Xor,medium,https://www.hackerrank.com/challenges/prime-xor
+hackerrank,Fair Cut,medium,https://www.hackerrank.com/challenges/fair-cut
+hackerrank,Maxsubarray,medium,https://www.hackerrank.com/challenges/maxsubarray
+hackerrank,Prime Digit Sums,medium,https://www.hackerrank.com/challenges/prime-digit-sums
+hackerrank,Hr City,medium,https://www.hackerrank.com/challenges/hr-city
+hackerrank,Summing Pieces,medium,https://www.hackerrank.com/challenges/summing-pieces
+hackerrank,Mr K Marsh,medium,https://www.hackerrank.com/challenges/mr-k-marsh
+hackerrank,Substring Diff,medium,https://www.hackerrank.com/challenges/substring-diff
+hackerrank,Xor And Sum,medium,https://www.hackerrank.com/challenges/xor-and-sum
+hackerrank,Lego Blocks,medium,https://www.hackerrank.com/challenges/lego-blocks
+hackerrank,Stockmax,medium,https://www.hackerrank.com/challenges/stockmax
+hackerrank,Two Robots,medium,https://www.hackerrank.com/challenges/two-robots
+hackerrank,Cuttree,medium,https://www.hackerrank.com/challenges/cuttree
+hackerrank,Wet Shark And Two Subsequences,medium,https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences
+hackerrank,Array Splitting,medium,https://www.hackerrank.com/challenges/array-splitting
+hackerrank,Mandragora,medium,https://www.hackerrank.com/challenges/mandragora
+hackerrank,Red John Is Back,medium,https://www.hackerrank.com/challenges/red-john-is-back
+hackerrank,Tutzki And Lcs,medium,https://www.hackerrank.com/challenges/tutzki-and-lcs
+hackerrank,Grid Walking,medium,https://www.hackerrank.com/challenges/grid-walking
+hackerrank,Unbounded Knapsack,medium,https://www.hackerrank.com/challenges/unbounded-knapsack
+hackerrank,Play Game,medium,https://www.hackerrank.com/challenges/play-game
+hackerrank,Coin On The Table,medium,https://www.hackerrank.com/challenges/coin-on-the-table
+hackerrank,Dynamic Programming Classics The Longest Common Subsequence,medium,https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence
+hackerrank,Strplay,medium,https://www.hackerrank.com/challenges/strplay
+hackerrank,Counting Special Sub Cubes,medium,https://www.hackerrank.com/challenges/counting-special-sub-cubes
+hackerrank,Interval Selection,medium,https://www.hackerrank.com/challenges/interval-selection
+hackerrank,The Indian Job,medium,https://www.hackerrank.com/challenges/the-indian-job
+hackerrank,Travel Around The World,medium,https://www.hackerrank.com/challenges/travel-around-the-world
+hackerrank,Candles 2,medium,https://www.hackerrank.com/challenges/candles-2
+hackerrank,Swappermutation,medium,https://www.hackerrank.com/challenges/swappermutation
+hackerrank,Extremum Permutations,medium,https://www.hackerrank.com/challenges/extremum-permutations
+hackerrank,Counter Game,medium,https://www.hackerrank.com/challenges/counter-game
+hackerrank,Xor Se,medium,https://www.hackerrank.com/challenges/xor-se
+hackerrank,The Great Xor,medium,https://www.hackerrank.com/challenges/the-great-xor
+hackerrank,Yet Another Minimax Problem,medium,https://www.hackerrank.com/challenges/yet-another-minimax-problem
+hackerrank,Sansa And Xor,medium,https://www.hackerrank.com/challenges/sansa-and-xor
+hackerrank,And Product,medium,https://www.hackerrank.com/challenges/and-product
+hackerrank,Winning Lottery Ticket,medium,https://www.hackerrank.com/challenges/winning-lottery-ticket
+hackerrank,Cipher,medium,https://www.hackerrank.com/challenges/cipher
+hackerrank,Whats Next,medium,https://www.hackerrank.com/challenges/whats-next
+hackerrank,Aorb,medium,https://www.hackerrank.com/challenges/aorb
+hackerrank,The Power Sum,medium,https://www.hackerrank.com/challenges/the-power-sum
+hackerrank,Crossword Puzzle,medium,https://www.hackerrank.com/challenges/crossword-puzzle
+hackerrank,Recursive Digit Sum,medium,https://www.hackerrank.com/challenges/recursive-digit-sum
+hackerrank,Simplified Chess Engine,medium,https://www.hackerrank.com/challenges/simplified-chess-engine
+hackerrank,Password Cracker,medium,https://www.hackerrank.com/challenges/password-cracker
+hackerrank,Stone Division 2,medium,https://www.hackerrank.com/challenges/stone-division-2
+hackerrank,Alice And Bobs Silly Game,medium,https://www.hackerrank.com/challenges/alice-and-bobs-silly-game
+hackerrank,Tower Breakers Revisited 1,medium,https://www.hackerrank.com/challenges/tower-breakers-revisited-1
+hackerrank,Tower Breakers Again 1,medium,https://www.hackerrank.com/challenges/tower-breakers-again-1
+hackerrank,Zero Move Nim,medium,https://www.hackerrank.com/challenges/zero-move-nim
+hackerrank,Chessboard Game Again 1,medium,https://www.hackerrank.com/challenges/chessboard-game-again-1
+hackerrank,Digits Square Board 1,medium,https://www.hackerrank.com/challenges/digits-square-board-1
+hackerrank,Fun Game 1,medium,https://www.hackerrank.com/challenges/fun-game-1
+hackerrank,Chocolate In Box,medium,https://www.hackerrank.com/challenges/chocolate-in-box
+hackerrank,Kitty And Katty,medium,https://www.hackerrank.com/challenges/kitty-and-katty
+hackerrank,Powers Game 1,medium,https://www.hackerrank.com/challenges/powers-game-1
+hackerrank,Deforestation 1,medium,https://www.hackerrank.com/challenges/deforestation-1
+hackerrank,Bob And Ben,medium,https://www.hackerrank.com/challenges/bob-and-ben
+hackerrank,Tower Breakers The Final Battle 1,medium,https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1
+hackerrank,Permutation Game,medium,https://www.hackerrank.com/challenges/permutation-game
+hackerrank,Benders Play,medium,https://www.hackerrank.com/challenges/benders-play
+hackerrank,Newyear Game,medium,https://www.hackerrank.com/challenges/newyear-game
+hackerrank,Vertical Rooks,medium,https://www.hackerrank.com/challenges/vertical-rooks
+hackerrank,Half,medium,https://www.hackerrank.com/challenges/half
+hackerrank,Prime Date,medium,https://www.hackerrank.com/challenges/prime-date
+hackerrank,Minimum Operations,medium,https://www.hackerrank.com/challenges/minimum-operations
+hackerrank,Zig Zag Sequence,medium,https://www.hackerrank.com/challenges/zig-zag-sequence
+hackerrank,Sparse Arrays,medium,https://www.hackerrank.com/challenges/sparse-arrays
+hackerrank,Detect Whether A Linked List Contains A Cycle,medium,https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle
+hackerrank,Tree Huffman Decoding,medium,https://www.hackerrank.com/challenges/tree-huffman-decoding
+hackerrank,Swap Nodes Algo,medium,https://www.hackerrank.com/challenges/swap-nodes-algo
+hackerrank,Is Binary Search Tree,medium,https://www.hackerrank.com/challenges/is-binary-search-tree
+hackerrank,Self Balancing Tree,medium,https://www.hackerrank.com/challenges/self-balancing-tree
+hackerrank,Queue Using Two Stacks,medium,https://www.hackerrank.com/challenges/queue-using-two-stacks
+hackerrank,Components In Graph,medium,https://www.hackerrank.com/challenges/components-in-graph
+hackerrank,Balanced Brackets,medium,https://www.hackerrank.com/challenges/balanced-brackets
+hackerrank,Castle On The Grid,medium,https://www.hackerrank.com/challenges/castle-on-the-grid
+hackerrank,Down To Zero Ii,medium,https://www.hackerrank.com/challenges/down-to-zero-ii
+hackerrank,Game Of Two Stacks,medium,https://www.hackerrank.com/challenges/game-of-two-stacks
+hackerrank,Largest Rectangle,medium,https://www.hackerrank.com/challenges/largest-rectangle
+hackerrank,Simple Text Editor,medium,https://www.hackerrank.com/challenges/simple-text-editor
+hackerrank,Waiter,medium,https://www.hackerrank.com/challenges/waiter
+hackerrank,Contacts,medium,https://www.hackerrank.com/challenges/contacts
+hackerrank,Kindergarten Adventures,medium,https://www.hackerrank.com/challenges/kindergarten-adventures
+hackerrank,X And His Shots,medium,https://www.hackerrank.com/challenges/x-and-his-shots
+hackerrank,Jim And The Skyscrapers,medium,https://www.hackerrank.com/challenges/jim-and-the-skyscrapers
+hackerrank,Find Maximum Index Product,medium,https://www.hackerrank.com/challenges/find-maximum-index-product
 codechef,ORDERS,hard,https://www.codechef.com/problems/ORDERS
 codechef,ICPC16F,hard,https://www.codechef.com/problems/ICPC16F
 codechef,PRIMEDST,hard,https://www.codechef.com/problems/PRIMEDST
 codechef,GERALD07,hard,https://www.codechef.com/problems/GERALD07
 codechef,COUNTARI,hard,https://www.codechef.com/problems/COUNTARI
-hackerrank,Matrix Layer Rotation ,hard,https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
-hackerrank,Determining DNA Health,hard,https://www.hackerrank.com/challenges/determining-dna-health/problem
-hackerrank,Count Strings,hard,https://www.hackerrank.com/challenges/count-strings/problem
-hackerrank,Gridland Provinces,hard,https://www.hackerrank.com/challenges/gridland-provinces/problem
-hackerrank,Making Candies,hard,https://www.hackerrank.com/challenges/making-candies/problem
+hackerrank,Matrix Rotation Algo,hard,https://www.hackerrank.com/challenges/matrix-rotation-algo
+hackerrank,Determining Dna Health,hard,https://www.hackerrank.com/challenges/determining-dna-health
+hackerrank,Insertion Sort,hard,https://www.hackerrank.com/challenges/insertion-sort
+hackerrank,Morgan And A String,hard,https://www.hackerrank.com/challenges/morgan-and-a-string
+hackerrank,Count Strings,hard,https://www.hackerrank.com/challenges/count-strings
+hackerrank,String Function Calculation,hard,https://www.hackerrank.com/challenges/string-function-calculation
+hackerrank,Challenging Palindromes,hard,https://www.hackerrank.com/challenges/challenging-palindromes
+hackerrank,Build A String,hard,https://www.hackerrank.com/challenges/build-a-string
+hackerrank,Gridland Provinces,hard,https://www.hackerrank.com/challenges/gridland-provinces
+hackerrank,Cards Permutation,hard,https://www.hackerrank.com/challenges/cards-permutation
+hackerrank,Ashton And String,hard,https://www.hackerrank.com/challenges/ashton-and-string
+hackerrank,String Similarity,hard,https://www.hackerrank.com/challenges/string-similarity
+hackerrank,Super Functional Strings,hard,https://www.hackerrank.com/challenges/super-functional-strings
+hackerrank,Circular Palindromes,hard,https://www.hackerrank.com/challenges/circular-palindromes
+hackerrank,Similar Strings,hard,https://www.hackerrank.com/challenges/similar-strings
+hackerrank,Save Humanity,hard,https://www.hackerrank.com/challenges/save-humanity
+hackerrank,Find Strings,hard,https://www.hackerrank.com/challenges/find-strings
+hackerrank,Palindromic Border,hard,https://www.hackerrank.com/challenges/palindromic-border
+hackerrank,Two Two,hard,https://www.hackerrank.com/challenges/two-two
+hackerrank,Two Strings Game,hard,https://www.hackerrank.com/challenges/two-strings-game
+hackerrank,Letter Islands,hard,https://www.hackerrank.com/challenges/letter-islands
+hackerrank,Pseudo Isomorphic Substrings,hard,https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings
+hackerrank,How Many Substrings,hard,https://www.hackerrank.com/challenges/how-many-substrings
+hackerrank,Maximum Subarray Sum,hard,https://www.hackerrank.com/challenges/maximum-subarray-sum
+hackerrank,Maximizing Mission Points,hard,https://www.hackerrank.com/challenges/maximizing-mission-points
+hackerrank,Making Candies,hard,https://www.hackerrank.com/challenges/making-candies
+hackerrank,Bike Racers,hard,https://www.hackerrank.com/challenges/bike-racers
+hackerrank,Task Scheduling,hard,https://www.hackerrank.com/challenges/task-scheduling
+hackerrank,Similarpair,hard,https://www.hackerrank.com/challenges/similarpair
+hackerrank,Playing With Numbers,hard,https://www.hackerrank.com/challenges/playing-with-numbers
+hackerrank,Almost Integer Rock Garden,hard,https://www.hackerrank.com/challenges/almost-integer-rock-garden
+hackerrank,Sorted Subsegments,hard,https://www.hackerrank.com/challenges/sorted-subsegments
+hackerrank,Distant Pairs,hard,https://www.hackerrank.com/challenges/distant-pairs
+hackerrank,King Richards Knights,hard,https://www.hackerrank.com/challenges/king-richards-knights
+hackerrank,Frog In Maze,hard,https://www.hackerrank.com/challenges/frog-in-maze
+hackerrank,Subset Component,hard,https://www.hackerrank.com/challenges/subset-component
+hackerrank,Dijkstrashortreach,hard,https://www.hackerrank.com/challenges/dijkstrashortreach
+hackerrank,Toll Cost Digits,hard,https://www.hackerrank.com/challenges/toll-cost-digits
+hackerrank,Real Estate Broker,hard,https://www.hackerrank.com/challenges/real-estate-broker
+hackerrank,Borrowing Money,hard,https://www.hackerrank.com/challenges/borrowing-money
+hackerrank,Value Of Friendship,hard,https://www.hackerrank.com/challenges/value-of-friendship
+hackerrank,Coprime Paths,hard,https://www.hackerrank.com/challenges/coprime-paths
+hackerrank,Minimum Mst Graph,hard,https://www.hackerrank.com/challenges/minimum-mst-graph
+hackerrank,Beadornaments,hard,https://www.hackerrank.com/challenges/beadornaments
+hackerrank,Floyd City Of Blinding Lights,hard,https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights
+hackerrank,Kingdom Connectivity,hard,https://www.hackerrank.com/challenges/kingdom-connectivity
+hackerrank,Computer Game,hard,https://www.hackerrank.com/challenges/computer-game
+hackerrank,Problem Solving,hard,https://www.hackerrank.com/challenges/problem-solving
+hackerrank,Journey Scheduling,hard,https://www.hackerrank.com/challenges/journey-scheduling
+hackerrank,Matrix,hard,https://www.hackerrank.com/challenges/matrix
+hackerrank,Episode Recording,hard,https://www.hackerrank.com/challenges/episode-recording
+hackerrank,Repair Roads,hard,https://www.hackerrank.com/challenges/repair-roads
+hackerrank,Kth Ancestor,hard,https://www.hackerrank.com/challenges/kth-ancestor
+hackerrank,Bytelandian Tours,hard,https://www.hackerrank.com/challenges/bytelandian-tours
+hackerrank,Shortest Path,hard,https://www.hackerrank.com/challenges/shortest-path
+hackerrank,Savita And Friends,hard,https://www.hackerrank.com/challenges/savita-and-friends
+hackerrank,Liars,hard,https://www.hackerrank.com/challenges/liars
+hackerrank,Jumping Rooks,hard,https://www.hackerrank.com/challenges/jumping-rooks
+hackerrank,Tripartite Matching,hard,https://www.hackerrank.com/challenges/tripartite-matching
+hackerrank,Tree Flow,hard,https://www.hackerrank.com/challenges/tree-flow
+hackerrank,Dag Queries,hard,https://www.hackerrank.com/challenges/dag-queries
+hackerrank,Favourite Sequence,hard,https://www.hackerrank.com/challenges/favourite-sequence
+hackerrank,Cat Jogging,hard,https://www.hackerrank.com/challenges/cat-jogging
+hackerrank,Quadrant Queries,hard,https://www.hackerrank.com/challenges/quadrant-queries
+hackerrank,Hacker Country,hard,https://www.hackerrank.com/challenges/hacker-country
+hackerrank,Missile Defend,hard,https://www.hackerrank.com/challenges/missile-defend
+hackerrank,Huarongdao,hard,https://www.hackerrank.com/challenges/huarongdao
+hackerrank,Training The Army,hard,https://www.hackerrank.com/challenges/training-the-army
+hackerrank,Jim And His Lan Party,hard,https://www.hackerrank.com/challenges/jim-and-his-lan-party
+hackerrank,Travel In Hackerland,hard,https://www.hackerrank.com/challenges/travel-in-hackerland
+hackerrank,Alex Vs Fedor,hard,https://www.hackerrank.com/challenges/alex-vs-fedor
+hackerrank,Vertical Paths,hard,https://www.hackerrank.com/challenges/vertical-paths
+hackerrank,Drive,hard,https://www.hackerrank.com/challenges/drive
+hackerrank,Tsp Grid,hard,https://www.hackerrank.com/challenges/tsp-grid
+hackerrank,Road Network,hard,https://www.hackerrank.com/challenges/road-network
+hackerrank,Going Office,hard,https://www.hackerrank.com/challenges/going-office
+hackerrank,Tree Splitting,hard,https://www.hackerrank.com/challenges/tree-splitting
+hackerrank,Ticket,hard,https://www.hackerrank.com/challenges/ticket
+hackerrank,Dfs Edges,hard,https://www.hackerrank.com/challenges/dfs-edges
+hackerrank,Diameter Minimization,hard,https://www.hackerrank.com/challenges/diameter-minimization
+hackerrank,Airports,hard,https://www.hackerrank.com/challenges/airports
+hackerrank,Definite Random Walks,hard,https://www.hackerrank.com/challenges/definite-random-walks
+hackerrank,Board Cutting,hard,https://www.hackerrank.com/challenges/board-cutting
+hackerrank,Reverse Shuffle Merge,hard,https://www.hackerrank.com/challenges/reverse-shuffle-merge
+hackerrank,Chief Hopper,hard,https://www.hackerrank.com/challenges/chief-hopper
+hackerrank,Sherlock And Minimax,hard,https://www.hackerrank.com/challenges/sherlock-and-minimax
+hackerrank,Accessory Collection,hard,https://www.hackerrank.com/challenges/accessory-collection
+hackerrank,Team Formation,hard,https://www.hackerrank.com/challenges/team-formation
+hackerrank,Fighting Pits,hard,https://www.hackerrank.com/challenges/fighting-pits
+hackerrank,Kmp Problem,hard,https://www.hackerrank.com/challenges/kmp-problem
+hackerrank,Beautiful 3 Set,hard,https://www.hackerrank.com/challenges/beautiful-3-set
+hackerrank,Inverse Rmq,hard,https://www.hackerrank.com/challenges/inverse-rmq
+hackerrank,Two Subarrays,hard,https://www.hackerrank.com/challenges/two-subarrays
+hackerrank,Lovely Triplets,hard,https://www.hackerrank.com/challenges/lovely-triplets
+hackerrank,Array Construction,hard,https://www.hackerrank.com/challenges/array-construction
+hackerrank,Decibinary Numbers,hard,https://www.hackerrank.com/challenges/decibinary-numbers
+hackerrank,Angry Children 2,hard,https://www.hackerrank.com/challenges/angry-children-2
+hackerrank,Sherlocks Array Merging Algorithm,hard,https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm
+hackerrank,Brick Tiling,hard,https://www.hackerrank.com/challenges/brick-tiling
+hackerrank,Alien Languages,hard,https://www.hackerrank.com/challenges/alien-languages
+hackerrank,Taras Beautiful Permutations,hard,https://www.hackerrank.com/challenges/taras-beautiful-permutations
+hackerrank,Choosing White Balls,hard,https://www.hackerrank.com/challenges/choosing-white-balls
+hackerrank,Matrix Land,hard,https://www.hackerrank.com/challenges/matrix-land
+hackerrank,Longest Increasing Subsequent,hard,https://www.hackerrank.com/challenges/longest-increasing-subsequent
+hackerrank,Black N White Tree 1,hard,https://www.hackerrank.com/challenges/black-n-white-tree-1
+hackerrank,String Reduction,hard,https://www.hackerrank.com/challenges/string-reduction
+hackerrank,Far Vertices,hard,https://www.hackerrank.com/challenges/far-vertices
+hackerrank,Counting Road Networks,hard,https://www.hackerrank.com/challenges/counting-road-networks
+hackerrank,Superman Celebrates Diwali,hard,https://www.hackerrank.com/challenges/superman-celebrates-diwali
+hackerrank,Hexagonal Grid,hard,https://www.hackerrank.com/challenges/hexagonal-grid
+hackerrank,Queens On Board,hard,https://www.hackerrank.com/challenges/queens-on-board
+hackerrank,Shashank And Palindromic Strings,hard,https://www.hackerrank.com/challenges/shashank-and-palindromic-strings
+hackerrank,Points In A Plane,hard,https://www.hackerrank.com/challenges/points-in-a-plane
+hackerrank,Turn Off The Lights,hard,https://www.hackerrank.com/challenges/turn-off-the-lights
+hackerrank,Animal Transport,hard,https://www.hackerrank.com/challenges/animal-transport
+hackerrank,Requirement,hard,https://www.hackerrank.com/challenges/requirement
+hackerrank,A Super Hero,hard,https://www.hackerrank.com/challenges/a-super-hero
+hackerrank,Clues On A Binary Path,hard,https://www.hackerrank.com/challenges/clues-on-a-binary-path
+hackerrank,Road Maintenance,hard,https://www.hackerrank.com/challenges/road-maintenance
+hackerrank,Billboards,hard,https://www.hackerrank.com/challenges/billboards
+hackerrank,Beautiful String,hard,https://www.hackerrank.com/challenges/beautiful-string
+hackerrank,Covering The Stains,hard,https://www.hackerrank.com/challenges/covering-the-stains
+hackerrank,Gcd Matrix,hard,https://www.hackerrank.com/challenges/gcd-matrix
+hackerrank,Fairy Chess,hard,https://www.hackerrank.com/challenges/fairy-chess
+hackerrank,Suffix Rotation,hard,https://www.hackerrank.com/challenges/suffix-rotation
+hackerrank,Newyear Present,hard,https://www.hackerrank.com/challenges/newyear-present
+hackerrank,Longest Palindromic Subsequence,hard,https://www.hackerrank.com/challenges/longest-palindromic-subsequence
+hackerrank,Hyper Strings,hard,https://www.hackerrank.com/challenges/hyper-strings
+hackerrank,Square Subsequences,hard,https://www.hackerrank.com/challenges/square-subsequences
+hackerrank,Dorsey Thief,hard,https://www.hackerrank.com/challenges/dorsey-thief
+hackerrank,Mining,hard,https://www.hackerrank.com/challenges/mining
+hackerrank,Police Operation,hard,https://www.hackerrank.com/challenges/police-operation
+hackerrank,Zurikela,hard,https://www.hackerrank.com/challenges/zurikela
+hackerrank,Modify The Sequence,hard,https://www.hackerrank.com/challenges/modify-the-sequence
+hackerrank,Longest Mod Path,hard,https://www.hackerrank.com/challenges/longest-mod-path
+hackerrank,P Sequences,hard,https://www.hackerrank.com/challenges/p-sequences
+hackerrank,Robot,hard,https://www.hackerrank.com/challenges/robot
+hackerrank,Lucky Numbers,hard,https://www.hackerrank.com/challenges/lucky-numbers
+hackerrank,Unfair Game,hard,https://www.hackerrank.com/challenges/unfair-game
+hackerrank,Oil Well,hard,https://www.hackerrank.com/challenges/oil-well
+hackerrank,Find The Seed,hard,https://www.hackerrank.com/challenges/find-the-seed
+hackerrank,The Blacklist,hard,https://www.hackerrank.com/challenges/the-blacklist
+hackerrank,Tree Pruning,hard,https://www.hackerrank.com/challenges/tree-pruning
+hackerrank,Ones And Twos,hard,https://www.hackerrank.com/challenges/ones-and-twos
+hackerrank,Count Scorecards,hard,https://www.hackerrank.com/challenges/count-scorecards
+hackerrank,Vim War,hard,https://www.hackerrank.com/challenges/vim-war
+hackerrank,Best Spot,hard,https://www.hackerrank.com/challenges/best-spot
+hackerrank,Divisible Numbers,hard,https://www.hackerrank.com/challenges/divisible-numbers
+hackerrank,Unique Divide And Conquer,hard,https://www.hackerrank.com/challenges/unique-divide-and-conquer
+hackerrank,Happy King,hard,https://www.hackerrank.com/challenges/happy-king
+hackerrank,Dortmund Dilemma,hard,https://www.hackerrank.com/challenges/dortmund-dilemma
+hackerrank,Super Kth Lis,hard,https://www.hackerrank.com/challenges/super-kth-lis
+hackerrank,Count Ways 1,hard,https://www.hackerrank.com/challenges/count-ways-1
+hackerrank,Hard Drive Disks,hard,https://www.hackerrank.com/challenges/hard-drive-disks
+hackerrank,Separate The Chocolate,hard,https://www.hackerrank.com/challenges/separate-the-chocolate
+hackerrank,Xoring Ninja,hard,https://www.hackerrank.com/challenges/xoring-ninja
+hackerrank,Xor Matrix,hard,https://www.hackerrank.com/challenges/xor-matrix
+hackerrank,String Transmission,hard,https://www.hackerrank.com/challenges/string-transmission
+hackerrank,Manipulative Numbers,hard,https://www.hackerrank.com/challenges/manipulative-numbers
+hackerrank,Stonegame,hard,https://www.hackerrank.com/challenges/stonegame
+hackerrank,2S Complement,hard,https://www.hackerrank.com/challenges/2s-complement
+hackerrank,Changing Bits,hard,https://www.hackerrank.com/challenges/changing-bits
+hackerrank,Xor Key,hard,https://www.hackerrank.com/challenges/xor-key
+hackerrank,Maximizing The Function,hard,https://www.hackerrank.com/challenges/maximizing-the-function
+hackerrank,Xor Subsequence,hard,https://www.hackerrank.com/challenges/xor-subsequence
+hackerrank,Iterate It,hard,https://www.hackerrank.com/challenges/iterate-it
+hackerrank,Hamming Distance,hard,https://www.hackerrank.com/challenges/hamming-distance
+hackerrank,Pmix,hard,https://www.hackerrank.com/challenges/pmix
+hackerrank,Arithmetic Expressions,hard,https://www.hackerrank.com/challenges/arithmetic-expressions
+hackerrank,K Factorization,hard,https://www.hackerrank.com/challenges/k-factorization
+hackerrank,Bowling Pins,hard,https://www.hackerrank.com/challenges/bowling-pins
+hackerrank,Simplified Chess Engine Ii,hard,https://www.hackerrank.com/challenges/simplified-chess-engine-ii
+hackerrank,Repeat K Sums,hard,https://www.hackerrank.com/challenges/repeat-k-sums
+hackerrank,Stone Division,hard,https://www.hackerrank.com/challenges/stone-division
+hackerrank,Simple Game,hard,https://www.hackerrank.com/challenges/simple-game
+hackerrank,Move The Coins,hard,https://www.hackerrank.com/challenges/move-the-coins
+hackerrank,Stone Piles,hard,https://www.hackerrank.com/challenges/stone-piles
+hackerrank,Chocolate Game,hard,https://www.hackerrank.com/challenges/chocolate-game
+hackerrank,The Prime Game,hard,https://www.hackerrank.com/challenges/the-prime-game
+hackerrank,Taste Of Win,hard,https://www.hackerrank.com/challenges/taste-of-win
+hackerrank,Walking The Approximate Longest Path,hard,https://www.hackerrank.com/challenges/walking-the-approximate-longest-path
+hackerrank,Sams Puzzle,hard,https://www.hackerrank.com/challenges/sams-puzzle
+hackerrank,Spies Revised,hard,https://www.hackerrank.com/challenges/spies-revised
+hackerrank,Tbsp,hard,https://www.hackerrank.com/challenges/tbsp
+hackerrank,Crush,hard,https://www.hackerrank.com/challenges/crush
+hackerrank,Kittys Calculations On A Tree,hard,https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree
+hackerrank,Square Ten Tree,hard,https://www.hackerrank.com/challenges/square-ten-tree
+hackerrank,Balanced Forest,hard,https://www.hackerrank.com/challenges/balanced-forest
+hackerrank,Jenny Subtrees,hard,https://www.hackerrank.com/challenges/jenny-subtrees
+hackerrank,Tree Coordinates,hard,https://www.hackerrank.com/challenges/tree-coordinates
+hackerrank,Array Pairs,hard,https://www.hackerrank.com/challenges/array-pairs
+hackerrank,Array And Simple Queries,hard,https://www.hackerrank.com/challenges/array-and-simple-queries
+hackerrank,Median,hard,https://www.hackerrank.com/challenges/median
+hackerrank,Merging Communities,hard,https://www.hackerrank.com/challenges/merging-communities
+hackerrank,Kundu And Tree,hard,https://www.hackerrank.com/challenges/kundu-and-tree
+hackerrank,Find The Running Median,hard,https://www.hackerrank.com/challenges/find-the-running-median
+hackerrank,Minimum Average Waiting Time,hard,https://www.hackerrank.com/challenges/minimum-average-waiting-time
+hackerrank,Truck Tour,hard,https://www.hackerrank.com/challenges/truck-tour
+hackerrank,Queries With Fixed Length,hard,https://www.hackerrank.com/challenges/queries-with-fixed-length
+hackerrank,Maximum Cost Queries,hard,https://www.hackerrank.com/challenges/maximum-cost-queries
+hackerrank,Poisonous Plants,hard,https://www.hackerrank.com/challenges/poisonous-plants
+hackerrank,And Xor Or,hard,https://www.hackerrank.com/challenges/and-xor-or
+hackerrank,No Prefix Set,hard,https://www.hackerrank.com/challenges/no-prefix-set
+hackerrank,Cube Summation,hard,https://www.hackerrank.com/challenges/cube-summation
+hackerrank,Direct Connections,hard,https://www.hackerrank.com/challenges/direct-connections
+hackerrank,Subsequence Weighting,hard,https://www.hackerrank.com/challenges/subsequence-weighting
+hackerrank,Palindromic Subsets,hard,https://www.hackerrank.com/challenges/palindromic-subsets
+hackerrank,Counting On A Tree,hard,https://www.hackerrank.com/challenges/counting-on-a-tree
+hackerrank,Polynomial Division,hard,https://www.hackerrank.com/challenges/polynomial-division
+hackerrank,Costly Intervals,hard,https://www.hackerrank.com/challenges/costly-intervals
+hackerrank,The Strange Function,hard,https://www.hackerrank.com/challenges/the-strange-function
+hackerrank,Self Driving Bus,hard,https://www.hackerrank.com/challenges/self-driving-bus
+hackerrank,Unique Colors,hard,https://www.hackerrank.com/challenges/unique-colors
+hackerrank,Fibonacci Numbers Tree,hard,https://www.hackerrank.com/challenges/fibonacci-numbers-tree
+hackerrank,Pair Sums,hard,https://www.hackerrank.com/challenges/pair-sums
+hackerrank,Functional Palindromes,hard,https://www.hackerrank.com/challenges/functional-palindromes
+hackerrank,Lazy White Falcon,hard,https://www.hackerrank.com/challenges/lazy-white-falcon
+hackerrank,Ticket To Ride,hard,https://www.hackerrank.com/challenges/ticket-to-ride
+hackerrank,Heavy Light White Falcon,hard,https://www.hackerrank.com/challenges/heavy-light-white-falcon
+hackerrank,Little Alexey And Sum Of Maximums,hard,https://www.hackerrank.com/challenges/little-alexey-and-sum-of-maximums
+hackerrank,Number Game On A Tree,hard,https://www.hackerrank.com/challenges/number-game-on-a-tree
+hackerrank,Heavy Light 2 White Falcon,hard,https://www.hackerrank.com/challenges/heavy-light-2-white-falcon
+hackerrank,Library Query,hard,https://www.hackerrank.com/challenges/library-query
+hackerrank,Starfleet,hard,https://www.hackerrank.com/challenges/starfleet
+hackerrank,Almost Equal Advanced,hard,https://www.hackerrank.com/challenges/almost-equal-advanced
+hackerrank,Almost Sorted Interval,hard,https://www.hackerrank.com/challenges/almost-sorted-interval
+hackerrank,Burger Happiness,hard,https://www.hackerrank.com/challenges/burger-happiness
+hackerrank,Roy And Alpha Beta Trees,hard,https://www.hackerrank.com/challenges/roy-and-alpha-beta-trees
+hackerrank,Coloring Tree,hard,https://www.hackerrank.com/challenges/coloring-tree
+hackerrank,Recalling Early Days Gp With Trees,hard,https://www.hackerrank.com/challenges/recalling-early-days-gp-with-trees
+hackerrank,Swaps And Sum,hard,https://www.hackerrank.com/challenges/swaps-and-sum
+hackerrank,Arithmetic Progressions,hard,https://www.hackerrank.com/challenges/arithmetic-progressions
+hackerrank,Coolguy And Two Subsequences,hard,https://www.hackerrank.com/challenges/coolguy-and-two-subsequences
+hackerrank,White Falcon And Tree,hard,https://www.hackerrank.com/challenges/white-falcon-and-tree
+hackerrank,Subtrees And Paths,hard,https://www.hackerrank.com/challenges/subtrees-and-paths
+hackerrank,Triplets,hard,https://www.hackerrank.com/challenges/triplets
+hackerrank,Beautiful Segments,hard,https://www.hackerrank.com/challenges/beautiful-segments
+hackerrank,Ab0,hard,https://www.hackerrank.com/challenges/ab0
+hackerrank,Bst Maintenance,hard,https://www.hackerrank.com/challenges/bst-maintenance
+hackerrank,Taxicab Drivers Problem,hard,https://www.hackerrank.com/challenges/taxicab-drivers-problem
+hackerrank,Jagia Playing With Numbers,hard,https://www.hackerrank.com/challenges/jagia-playing-with-numbers
+hackerrank,Dynamic Summation,hard,https://www.hackerrank.com/challenges/dynamic-summation
+hackerrank,Weird Queries,hard,https://www.hackerrank.com/challenges/weird-queries
+hackerrank,Rooted Tree,hard,https://www.hackerrank.com/challenges/rooted-tree
+hackerrank,Helix,hard,https://www.hackerrank.com/challenges/helix
+hackerrank,Net Admin,hard,https://www.hackerrank.com/challenges/net-admin
+hackerrank,Easy Addition,hard,https://www.hackerrank.com/challenges/easy-addition
+hackerrank,Find The Permutation,hard,https://www.hackerrank.com/challenges/find-the-permutation
+hackerrank,Company Retreat,hard,https://www.hackerrank.com/challenges/company-retreat
+hackerrank,Box Operations,hard,https://www.hackerrank.com/challenges/box-operations
+hackerrank,Max Transform,hard,https://www.hackerrank.com/challenges/max-transform
+hackerrank,Array And Queries 1,hard,https://www.hackerrank.com/challenges/array-and-queries-1
